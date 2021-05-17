@@ -1,0 +1,9 @@
+Departments:
+CSE
+ECE
+EEE
+IT
+CIVIL
+MECHANICAL
+MCA
+MBA
